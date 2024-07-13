@@ -29,7 +29,7 @@ O projeto "RideAge Advisor" é um assistente virtual desenvolvido para ajudar os
     npm start
     ```
 
-   - Acesse o BOT no navegador visitando `[http://localhost:3000/](http://localhost:3000/)`.
+   - Acesse o BOT no navegador visitando [http://localhost:3000](http://localhost:3000/).
 
 3. **Interagindo com o Bot:**
    - **Passo 1:** Digite seu nome para iniciar a interação com o bot.
